@@ -12,3 +12,19 @@
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+  .cartimg {
+    height: 50px;
+  }
+
+#bglog {
+    background-repeat: no-repeat; 
+    background-size: cover;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

@@ -10,8 +10,8 @@
                         <h5>Categories</h5>
                         <ul>
                             <li><a href="shop?catId=1" class="text-danger">Laptops</a></li>
-                            <li><a href="shop?catId=2" class="text-danger">TV & Audio</a></li>
-                            <li><a href="shop?catId=3" class="text-danger">Computers</a></li>
+                            <li><a href="shop?catId=2" class="text-danger">Computers</a></li>
+                            <li><a href="shop?catId=3" class="text-danger">TV & Audio</a></li>
                             <li><a href="shop?catId=4" class="text-danger">Wearable Technology</a></li>
                             <li><a href="shop?catId=5" class="text-danger">Gaming Consoles</a></li>
                         </ul>
@@ -37,10 +37,10 @@
     </footer>
 
     <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="dist/js/jquery-3.5.1.min.js"></script>
     <!-- Proper JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <!-- Bootstrap JavaScript -->
-    <script src="bootstrap-4.5.3-dist/js/bootstrap.min.js"></script>
+    <script src="dist/js/bootstrap/bootstrap.min.js"></script>
   </body>
 </html>
